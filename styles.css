@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+.base-container{
+    position: absolute;
+    margin: 0;
+}
+
+.bg-image{
+    position: absolute;
+    width: 1092.800px;
+
+}
+.login-box{
+    position: absolute;
+    right: 25%;
+    bottom: 100px;
+    height: 300px;
+    width: 300px;
+    color: black;
+}
