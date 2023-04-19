@@ -30,8 +30,8 @@ body{
 }
 .border-box{
     position: absolute;
-    left: 1.25rem;
-    bottom: 0px;
+    right: 16.5%;
+    bottom: 6.25rem;
     height: 25rem;
     width: 21.875rem;
     color: #d8d9c9  ;
