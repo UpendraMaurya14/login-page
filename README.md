@@ -1,8 +1,9 @@
 # login-page
 I made this login page while learning html css 
 but if u find any suggestion then please do mention.
-[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
-[3]: https://twitter.com/_UpendraMaurya
+
+https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F_UpendraMaurya
+
 
 u can visit the website here 
 https://upendramaurya14.github.io/login-page/
