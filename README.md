@@ -2,7 +2,7 @@
 I made this login page while learning html css 
 but if u find any suggestion then please do mention.
 
-<img alt="Twitter URL" src="https://twitter.com/_UpendraMaurya">
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F_UpendraMaurya" href="https://twitter.com/_UpendraMaurya">
 
 
 u can visit the website here 
