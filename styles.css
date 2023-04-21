@@ -80,6 +80,7 @@ label{
     text-decoration: none;
   }
   .rem-checkbox {
+    padding-top: 1rem;
     margin-top: 0.938;
     display: inline-block;
     position: relative;
